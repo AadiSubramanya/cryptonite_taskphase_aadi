@@ -9,7 +9,7 @@ Here is your flag:
 pwn.college{0UFuLQC-t4_9P5OQQ_kokuUHRJx.dZDN1QDLycjN0czW}
 ```
 ## Learnings:
-
+Changing directories
 
 ## References:
 none
