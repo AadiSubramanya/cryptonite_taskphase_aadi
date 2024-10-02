@@ -1,12 +1,12 @@
 # Position elsewhere
 ## Code:
 ```bash
-hacker@paths~position-thy-self:/$ cd home
-hacker@paths~position-thy-self:/home$ /challenge/run
+hacker@paths~position-elsewhere:~$ cd /usr/bin
+hacker@paths~position-elsewhere:/usr/bin$ /challenge/run
 Correct!!!
 /challenge/run is an absolute path, invoked from the right directory!
 Here is your flag:
-pwn.college{0UFuLQC-t4_9P5OQQ_kokuUHRJx.dZDN1QDLycjN0czW}
+pwn.college{AKrcMVeZOz-9pq0pOL9DmEnkyZC.ddDN1QDLycjN0czW}
 ```
 ## Learnings:
 
