@@ -7,7 +7,7 @@ Correct!!!
 pwn.college{oGK9SLmjSieAeSf9PU71qt3K4aZ.dVDN1QDLycjN0czW}
 ```
 ## Learnings:
-How to access direct path using the terminal
+How to access absolute path using the terminal
 
 ## References:
 none
