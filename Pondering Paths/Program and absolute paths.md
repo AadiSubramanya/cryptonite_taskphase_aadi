@@ -1,4 +1,4 @@
-# The Root
+# Program and absolute paths
 ## Code:
 ```bash
 hacker@paths~program-and-absolute-paths:~$ /challenge/run
