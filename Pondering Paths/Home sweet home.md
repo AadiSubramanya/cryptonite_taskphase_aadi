@@ -10,5 +10,4 @@ pwn.college{ISshg3VG1GwBi4FsJEphPCr2BRd.dNzM4QDLycjN0czW}
 
 
 ## References:
-none
-
+Chat gpt
