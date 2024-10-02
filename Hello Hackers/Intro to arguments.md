@@ -6,7 +6,7 @@ Success! Here is your flag:
 pwn.college{geirUZKWaluaQ0M-J_bDKdFe-bY.dhjNyUDLycjN0czW}
 ```
 ## Learnings:
-Connecting wsl workspace to pwn challenge
+Understanding commands and arguments
 
 ## References:
-Tutorial video sent by mentor 
+None
