@@ -1,11 +1,11 @@
 # Implicit relative paths
 ## Code:
 ```bash
-hacker@paths~explicit-relative-paths-from-:/$ ./challenge/run
+hacker@paths~implicit-relative-path:/challenge$ ./run
 Correct!!!
-./challenge/run is a relative path, invoked from the right directory!
+./run is a relative path, invoked from the right directory!
 Here is your flag:
-pwn.college{4fYHyBt4p68O-AwpBM-olp9Lgpq.dBTN1QDLycjN0czW}
+pwn.college{AFbdAZxlKk1rUeAnTwqv7zFzDB8.dFTN1QDLycjN0czW}
 ```
 ## Learnings:
 
