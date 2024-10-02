@@ -1,11 +1,10 @@
 # Home sweet home
 ## Code:
 ```bash
-hacker@paths~explicit-relative-paths-from-:/$ ./challenge/run
-Correct!!!
-./challenge/run is a relative path, invoked from the right directory!
-Here is your flag:
-pwn.college{4fYHyBt4p68O-AwpBM-olp9Lgpq.dBTN1QDLycjN0czW}
+hacker@paths~home-sweet-home:~$ /challenge/run ~/a
+Writing the file to /home/hacker/a!
+... and reading it back to you:
+pwn.college{ISshg3VG1GwBi4FsJEphPCr2BRd.dNzM4QDLycjN0czW}
 ```
 ## Learnings:
 
