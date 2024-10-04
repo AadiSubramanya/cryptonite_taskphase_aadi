@@ -1,9 +1,8 @@
-# Intro to arguments
+# Catting absolute paths
 ## Code:
 ```bash
-hacker@hello~intro-to-arguments:~$ hello hackers
-Success! Here is your flag:
-pwn.college{geirUZKWaluaQ0M-J_bDKdFe-bY.dhjNyUDLycjN0czW}
+hacker@commands~catting-absolute-paths:~$ cat /flag
+pwn.college{Qx_LpxWJiMV7_vVKAya3vYlO06t.dlTM5QDLycjN0czW}
 ```
 ## Learnings:
 Understanding commands and arguments
