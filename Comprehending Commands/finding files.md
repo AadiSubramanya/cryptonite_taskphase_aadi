@@ -1,4 +1,4 @@
-# Filesystem quest
+# Finding files
 ## Code:
 ```bash
 hacker@commands~finding-files:~$ find / -name flag
