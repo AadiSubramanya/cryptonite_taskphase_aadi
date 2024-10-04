@@ -1,9 +1,8 @@
 # Intro to grepping
 ## Code:
 ```bash
-hacker@hello~intro-to-arguments:~$ hello hackers
-Success! Here is your flag:
-pwn.college{geirUZKWaluaQ0M-J_bDKdFe-bY.dhjNyUDLycjN0czW}
+hacker@commands~grepping-for-a-needle-in-a-haystack:~$ grep pwn.college /challenge/data.txt
+pwn.college{Q2Ly9hR3AV5viPLZMM52TJJECTQ.ddTM4QDLycjN0czW}
 ```
 ## Learnings:
 Understanding commands and arguments
