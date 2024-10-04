@@ -1,3 +1,6 @@
+# Filesystem quest
+## Code:
+```bash
 hacker@commands~finding-files:~$ find / -name flag
 find: ‘/root’: Permission denied
 find: ‘/proc/1/task/1/fd’: Permission denied
@@ -41,7 +44,11 @@ hacker@commands~finding-files:~$ cat /usr/local/lib/python3.8/dist-packages/pwnl
 cat: /usr/local/lib/python3.8/dist-packages/pwnlib/flag: Is a directory
 hacker@commands~finding-files:~$ cat /usr/local/share/radare2/5.9.5/flag
 cat: /usr/local/share/radare2/5.9.5/flag: Is a directory
-
-hacker@commands~finding-files:~$
 hacker@commands~finding-files:~$ cat /opt/angr-management/_internal/debugpy/_vendored/pydevd/__pycache__/flag
 pwn.college{MPW_KwSN0DtV0zO_NAKQyiHxyVh.dJzM4QDLycjN0czW}
+```
+## Learnings:
+Understanding commands and arguments
+
+## References:
+None
