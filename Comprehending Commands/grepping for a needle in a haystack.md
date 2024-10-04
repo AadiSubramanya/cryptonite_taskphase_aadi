@@ -1,4 +1,4 @@
-# Intro to arguments
+# Intro to grepping
 ## Code:
 ```bash
 hacker@hello~intro-to-arguments:~$ hello hackers
