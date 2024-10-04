@@ -1,9 +1,8 @@
-# Intro to arguments
+# Intro to catting
 ## Code:
 ```bash
-hacker@hello~intro-to-arguments:~$ hello hackers
-Success! Here is your flag:
-pwn.college{geirUZKWaluaQ0M-J_bDKdFe-bY.dhjNyUDLycjN0czW}
+hacker@commands~cat-not-the-pet-but-the-command:~$ cat flag
+pwn.college{4jIiF7TE069W1qsN8klLB8QcP--.dFzN1QDLycjN0czW}
 ```
 ## Learnings:
 Understanding commands and arguments
