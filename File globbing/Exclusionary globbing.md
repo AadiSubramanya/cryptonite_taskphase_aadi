@@ -1,10 +1,10 @@
-# Matching with *
+# Exclusionary Globbing
 ## Code:
 ```bash
-hacker@globbing~matching-with-:~$ cd /c*
-hacker@globbing~matching-with-:/challenge$ /challenge/run
-You ran me with the working directory of /challenge! Here is your flag:
-pwn.college{A_Kqk9Xw66utxOAW8bMf6K54tV9.dFjM4QDLycjN0czW}
+hacker@globbing~exclusionary-globbing:~$ cd /challenge/files
+hacker@globbing~exclusionary-globbing:/challenge/files$ /challenge/run [!pwn]*
+You got it! Here is your flag!
+pwn.college{ANNWC-TqXGJ_tpMkY_kcC4rlQY0.dZjM4QDLycjN0czW}
 ```
 ## Learnings:
 Understanding commands and arguments
