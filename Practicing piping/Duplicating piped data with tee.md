@@ -1,4 +1,4 @@
-# 
+# Duplicating piped data with tee
 ## Code:
 ```bash
 
