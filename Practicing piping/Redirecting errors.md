@@ -1,4 +1,4 @@
-# 
+# Redirecting errors
 ## Code:
 ```bash
 
