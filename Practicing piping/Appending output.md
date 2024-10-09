@@ -1,4 +1,4 @@
-# 
+# Appending output
 ## Code:
 ```bash
 
