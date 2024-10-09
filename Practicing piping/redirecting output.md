@@ -1,4 +1,4 @@
-# 
+# Redirecting Output
 ## Code:
 ```bash
 
