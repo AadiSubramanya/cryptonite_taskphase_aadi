@@ -1,7 +1,9 @@
 # Heads up, Tails down
+```bash
 Got an image that was corrupted, knew that we had to fix it. We tried understanding how png image data is formatted, and found out that its writted on hexadecimal data type. 
 Tried all techniques to convert the enrpted data (image data) into normal hexadecimal and still didnt get the fixed image.
 We then realized we had to "fix" the image, so we looked up the exact format for hexacode of a image and fixed the format of the given image and we had a proper image that led us to the flag
+
 
 
 # I have been falling for 30 minutes!
