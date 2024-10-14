@@ -1,4 +1,4 @@
-# Chaining Commands
+# Chaining with Semicolons
 ## Code:
 ```bash
 
