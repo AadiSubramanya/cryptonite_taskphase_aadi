@@ -1,4 +1,4 @@
-# Your First Shell
+# Your First Shell Script
 ## Code:
 ```bash
 
