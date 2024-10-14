@@ -1,22 +1,13 @@
-# Exporting Variables
+# Reading Output
 ## Code:
 ```bash
-hacker@variables~exporting-variables:~$ export PWN=COLLEGE
-You've set the PWN variable to the proper value!
-hacker@variables~exporting-variables:~$ COLLEGE=PWN
-You've set the PWN variable to the proper value!
-You've set the COLLEGE variable to the proper value!
-hacker@variables~exporting-variables:~$ /challenge/run
-CORRECT!
-You have exported PWN=COLLEGE and set, but not exported, COLLEGE=PWN. Great
-job! Here is your flag:
-pwn.college{EO51SgYjhpE84Kb27txh8859LPt.dJjN1QDLycjN0czW}
-You've set the PWN variable to the proper value!
-You've set the COLLEGE variable to the proper value!
+hacker@variables~reading-files:~$ read PWN < /challenge/read_me
+You've set the PWN variable properly! As promised, here is the flag:
+pwn.college{U6ELYGb5ivLgWJHicxnZRMbj5tw.dBjM4QDLycjN0czW}
 ```
 ## Learnings:
-- I learned that variables set in a shell are local to that session and won't be inherited by child processes.
-- To share a variable with child processes, I need to export it using `export VAR`.
-- For this challenge, I need to export the `PWN` variable with the value `COLLEGE` and set the `COLLEGE` variable to `PWN` without exporting it.
+- Learnt that instead of using `cat` to read a file into a variable, I can use input redirection with the `read` command.
+- By doing `read VAR < filename`, I can directly read the contents of a file into a variable.
+- For this challenge, I need to read `/challenge/read_me` into the `PWN` variable to get the flag.
 ## References:
 None
