@@ -1,4 +1,4 @@
-# Reading Output
+# Reading Files
 ## Code:
 ```bash
 hacker@variables~reading-files:~$ read PWN < /challenge/read_me
