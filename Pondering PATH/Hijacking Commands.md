@@ -1,1 +1,10 @@
-Adding Commands
+# Hijacking Commands
+## Code:
+```bash
+
+```
+## Learnings:
+- 
+## References:
+None
+
