@@ -14,9 +14,9 @@ Yahaha, you found me! Here is your flag:
 pwn.college{AU_HEdElIVIr3XjuKIjCYb3hbMc.dhzM4QDLycjN0czW}
 ```
 ## Learnings:
-- I learned to list running processes with the `ps` command.
--  Unlikes and likes between `ps -ef` for details or `ps aux`.
--  For this challenge, I need to find a renamed `/challenge/run` in the process list and relaunch it to get the flag.
+- Listing running processes with the `ps` command.
+- Unlikes and likes between `ps -ef` for details or `ps aux`.
+- For this challenge, I need to find a renamed `/challenge/run` in the process list and relaunch it to get the flag.
 ## References:
 None
 
