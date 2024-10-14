@@ -20,4 +20,3 @@ You've set the COLLEGE variable to the proper value!
 - For this challenge, I need to export the `PWN` variable with the value `COLLEGE` and set the `COLLEGE` variable to `PWN` without exporting it.
 ## References:
 None
-
