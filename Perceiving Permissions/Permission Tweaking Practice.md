@@ -1,4 +1,4 @@
-Permission Tweaking Practice# 
+Permission Tweaking Practice
 ## Code:
 ```bash
 hacker@permissions~permission-tweaking-practice:~$ /challenge/run
