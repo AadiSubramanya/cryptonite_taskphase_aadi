@@ -28,7 +28,7 @@ Found 'rm' command at /home/hacker//rm. Executing!
 hacker@path~hijacking-commands:~$
 ```
 ## Learnings:
-- 
+- This is is similar to the one before it and i got to learn again that env means shows which directory u are currently in.
 ## References:
 None
 
