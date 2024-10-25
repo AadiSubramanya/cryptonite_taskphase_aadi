@@ -82,15 +82,3 @@ W  e ˥m     O  D  2g  ?     `>5HYA u   8 g `0 $`  b
 
 writeup
 cd to given directory and then cat all similar format files at one command
-
-
-
-
-
-
-Level 5-6:
-Code:
-
-
-writeup
-cd to given directory and then cat all similar format files at one command
